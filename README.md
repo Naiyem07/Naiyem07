@@ -1,5 +1,5 @@
 ![I am Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQFaM5uBtPV-2Q/profile-displaybackgroundimage-shrink_200_800/0/1645390476868?e=1651104000&v=beta&t=Hw80qNpbx4BhER0ych8uD22KJFUVm7FSTdarbGscMj4)
-### Hi there 👋, y name is Sayed Abdullah Al Naiyem
+### Hi there 👋, my name is Sayed Abdullah Al Naiyem
 #### I am Web Developer
 Here, I am a Full-Stack Web Developer
 (Just Imagine The Reality)
